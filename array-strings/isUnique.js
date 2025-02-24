@@ -31,6 +31,8 @@ let passTest = 'qwerty' // need to pass
 let noPassTest = 'qwertq' 
 
 
+
+
 console.log(isUnique(noPassTest))
 
 // seems to me that its ok and its working. now i can see the hints and see if i can improve it.
